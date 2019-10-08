@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Friends Information</string>
+    <string name="title_activity_context_menu">ContextMenu</string>
+    <string name="action_call">See Detail</string>
+    <string name="action_sms">About Me</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_menu_context">MenuContext</string>
+    <string name="bio">
+        He is a IOS developer.\n
+        Mr.Naeem Doing job in Software House
+        as IOS developer. \n
+        He such a nice person .\n
+        He motivate me when i \n
+        feel i cant do that my work.\n\n
+        Many Peoples try to dis-courage\n
+        me but but\n
+        He appreciate me to contineu\n
+        my work.\n
+        Thankx Mr.Naeem!
+
+    </string>
+</resources>
